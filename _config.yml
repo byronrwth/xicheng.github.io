@@ -1,6 +1,7 @@
 permalink: /:title
 
-title: BeiYuu.com
-url: http://beiyuu.com
+title: xicheng.io
+url: http://xicheng.io
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="http://xicheng.io/">Xi Cheng</a>
+
